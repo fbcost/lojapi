@@ -104,6 +104,10 @@ Responsável pelo registro dos pedidos realizados.
 
 O projeto utiliza MySQL com persistência realizada através do Spring Data JPA.
 
+Banco utilizado:
+
+CREATE DATABASE baozi_store;
+
 ---
 
 # Testes da API
@@ -116,3 +120,4 @@ Foram realizados testes de:
 - Listagem geral
 - Consulta por ID
 - Remoção de registros
+- 
